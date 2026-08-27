@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DailyInner</string>
+    <string name="title_activity_main">DailyInner</string>
+    <string name="package_name">xin.dailyinner.app</string>
+    <string name="custom_url_scheme">xin.dailyinner.app</string>
+</resources>

@@ -1,0 +1,20 @@
+{
+  "name": "DailyInner",
+  "short_name": "DailyInner",
+  "description": "记录日常情绪、身体感受与生活线索，帮你温柔地看见自己的变化。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f3ea",
+  "theme_color": "#4f746d",
+  "categories": ["health", "lifestyle", "productivity"],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
